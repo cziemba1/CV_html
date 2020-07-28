@@ -131,7 +131,7 @@ table {
 body {
   display: flex;
   flex-direction: column;
-  padding: 40px 300px;
+  padding: 40px 400px;
   font-family: Cambria, "Times New Roman", serif;
   color: rgb(82, 47, 122);
 }
